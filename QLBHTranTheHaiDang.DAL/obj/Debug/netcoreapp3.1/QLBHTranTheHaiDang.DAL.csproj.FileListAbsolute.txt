@@ -1,0 +1,16 @@
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.deps.json
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.runtimeconfig.json
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.runtimeconfig.dev.json
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.dll
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.pdb
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.Common.dll
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\bin\Debug\netcoreapp3.1\QLBHTranTheHaiDang.Common.pdb
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.csproj.AssemblyReference.cache
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.AssemblyInfoInputs.cache
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.AssemblyInfo.cs
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.csproj.CoreCompileInputs.cache
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.csproj.CopyComplete
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.dll
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.pdb
+D:\QLBHTranTheHaiDang\QLBHTranTheHaiDang.DAL\obj\Debug\netcoreapp3.1\QLBHTranTheHaiDang.DAL.genruntimeconfig.cache
