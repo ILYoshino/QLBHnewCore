@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj": {}
+    "D:\\QLBHnewCore\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj": {}
   },
   "projects": {
-    "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj": {
+    "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj",
+        "projectUniqueName": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj",
         "projectName": "QLBHTranTheHaiDang.BLL",
-        "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj",
+        "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\obj\\",
+        "outputPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
-                "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
+              "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
+                "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
               },
-              "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj": {
-                "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj"
+              "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj": {
+                "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
+    "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj",
+        "projectUniqueName": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj",
         "projectName": "QLBHTranTheHaiDang.Common",
-        "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj",
+        "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\obj\\",
+        "outputPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj": {
+    "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
+        "projectUniqueName": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
         "projectName": "QLBHTranTheHaiDang.DAL",
-        "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
+        "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\obj\\",
+        "outputPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -193,8 +193,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
-                "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
+              "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
+                "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
               }
             }
           }
@@ -243,14 +243,14 @@
         }
       }
     },
-    "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj": {
+    "D:\\QLBHnewCore\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj",
+        "projectUniqueName": "D:\\QLBHnewCore\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj",
         "projectName": "QLBHTranTheHaiDang.Web",
-        "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj",
+        "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Web.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang\\obj\\",
+        "outputPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -273,11 +273,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj": {
-                "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj"
+              "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj": {
+                "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.BLL\\QLBHTranTheHaiDang.BLL.csproj"
               },
-              "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
-                "projectPath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
+              "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj": {
+                "projectPath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.Common\\QLBHTranTheHaiDang.Common.csproj"
               }
             }
           }

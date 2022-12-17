@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkXR3wqcoRh8TAc1y6rRFVMtj9mArTGPbTkWnVHmKn6GpvMFMg5+Y9KjihO6mfJpGrzGS9wNHkTDyDMJ8ZAO4w==",
+  "dgSpecHash": "tPYeb4DKNIMNFvttzx2V9nw+rWOrOsM0cHUBDrhm7u4T5g+hbKWTy4OoWf3fd4HxxjFpdx119ykhRvNSAefO+Q==",
   "success": true,
-  "projectFilePath": "D:\\QLBHTranTheHaiDang\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
+  "projectFilePath": "D:\\QLBHnewCore\\QLBHTranTheHaiDang.DAL\\QLBHTranTheHaiDang.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
